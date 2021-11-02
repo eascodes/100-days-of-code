@@ -62,3 +62,12 @@ https://codepen.io/eascodes/pen/KKvXVpa
 
 **Link(s) to work**
 https://codepen.io/eascodes/pen/mdMqJQw
+
+### Day 8: November 2, 2021
+
+**Today's Progress**: I completed the project #3 HTML coding for the Responsive Web Design certification on FreeCodeCamp. I am creating a product landing page for a cold process soap company.
+
+**Thoughts** Compared to the last 2 projects, I enjoyed deviating more from the project example code as I set up the webpage. I look forward to digging into the CSS tomorrow.
+
+**Link(s) to work**
+https://codepen.io/eascodes/pen/JjyOXbg
