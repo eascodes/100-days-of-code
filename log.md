@@ -71,3 +71,12 @@ https://codepen.io/eascodes/pen/mdMqJQw
 
 **Link(s) to work**
 https://codepen.io/eascodes/pen/JjyOXbg
+
+### Day 9: November 3, 2021
+
+**Today's Progress**: I spent most of my time today working on the CSS for my project #3 landing page. I am satisfied with how the landing page looks, but need to a little more work on the media queries.
+
+**Thoughts** This was by far my favorite project so far. I have thought about selling my own homemade soap, so making a landing page for my own potential project made it really fun. I did a lot of problem-solving to reach the aesthetic I desired for the page, such as importing assets from Figma.
+
+**Link(s) to work**
+https://codepen.io/eascodes/pen/JjyOXbg
