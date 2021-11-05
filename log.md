@@ -80,3 +80,19 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 **Link(s) to work**
 https://codepen.io/eascodes/pen/JjyOXbg
+
+### Day 10: November 4, 2021
+
+**Today's Progress**: Today I started and completed project #3 for my FreeCodeCamp course, which was a technical document about scalable vector graphics.
+
+**Thoughts** This was the most content-heavy project that I've done so far, which made HTML organization extremely important. I felt much more comfortable with my HTML and CSS coding, and enjoyed styling the document at the end. The largest challenge was deciding how to organize the info on the page - initially I tried using flexbox to manipulate the elements but realized it wasn't the best application for this project. One thing I learned was how to use <code></code> to show code examples on my webpage.
+
+**Link(s) to work** https://codepen.io/eascodes/pen/QWMQNMv
+
+### Day 11: November 5, 2021
+
+**Today's Progress**: Today I worked on the HTML and CSS for my professional portfolio website.
+
+**Thoughts** I started creating a portfolio website when I began my HTML & CSS tutorials, but today I decided to update it with a new layout. I found it challenging to re-arrange what I had created, so I ended up starting over and re-inserting code section by section. This was immensely helpful, as I was able to see how every line of code impacted the page and also make my coding a little cleaner.
+
+**Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
