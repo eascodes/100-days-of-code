@@ -96,3 +96,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I started creating a portfolio website when I began my HTML & CSS tutorials, but today I decided to update it with a new layout. I found it challenging to re-arrange what I had created, so I ended up starting over and re-inserting code section by section. This was immensely helpful, as I was able to see how every line of code impacted the page and also make my coding a little cleaner.
 
 **Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
+
+### Day 12: November 6, 2021
+
+**Today's Progress**: Today I continued to work on my professional portfolio website. I created links to the projects I've accomplished so far, and learned how to create social media links. 
+
+**Thoughts** I am happy with how the portfolio is shaping up. I am learning that less is sometimes more. I just need to add some finishing touches and then I'll be starting on some new projects to add to the portfolio.
+
+**Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
