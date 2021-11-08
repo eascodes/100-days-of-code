@@ -115,5 +115,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 ### Day 14: November 8, 2021
 
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
+
 **Special Guest/Note**: @schtubbs setting up multiple git users on Cooper.
 **Special Guest/Note**: @schtubbs setting up multiple git users on mactop.
