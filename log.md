@@ -112,3 +112,7 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** Making the webpage responsive to various browser sizes was challenging, but a great learning lesson for keeping responsivity in mind from the very start of a project.
 
 **Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
+
+### Day 14: November 8, 2021
+
+**Special Guest/Note**: @schtubbs setting up multiple git users on Cooper and laptop.
