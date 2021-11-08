@@ -115,4 +115,5 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 ### Day 14: November 8, 2021
 
-**Special Guest/Note**: @schtubbs setting up multiple git users on Cooper and laptop.
+**Special Guest/Note**: @schtubbs setting up multiple git users on Cooper.
+**Special Guest/Note**: @schtubbs setting up multiple git users on mactop.
