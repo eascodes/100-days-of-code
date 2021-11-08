@@ -104,3 +104,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I am happy with how the portfolio is shaping up. I am learning that less is sometimes more. I just need to add some finishing touches and then I'll be starting on some new projects to add to the portfolio.
 
 **Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
+
+### Day 13: November 7, 2021
+
+**Today's Progress**: Today I finished my portfolio webpage. I focused most of my time on media queries. 
+
+**Thoughts** Making the webpage responsive to various browser sizes was challenging, but a great learning lesson for keeping responsivity in mind from the very start of a project.
+
+**Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
