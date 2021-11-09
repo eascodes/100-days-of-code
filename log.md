@@ -115,11 +115,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 ### Day 14: November 8, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Today I received my FreeCodeCamp Responsive Web Design certificate. I completed final touches on my projects, and learned about how I can use the Inspect browser feature to take full size screenshots and see the browser heights/widths in pixels. I also learned how to set up my GitHub repos on my server, GitHub, & in my local environment, so I can use a local server to do web development.
 
-**Thoughts** 
+**Thoughts** My progress with setting up my coding environment today will allow me to code more easily/efficiently. 
 
-**Link(s) to work** https://codepen.io/eascodes/pen/eYEMOyy
+**Link(s) to work** https://freecodecamp.org/certification/eascodes/responsive-web-design
 
 **Special Guest/Note**: @schtubbs setting up multiple git users on Cooper.
 **Special Guest/Note**: @schtubbs setting up multiple git users on mactop.
