@@ -121,5 +121,13 @@ https://codepen.io/eascodes/pen/JjyOXbg
 
 **Link(s) to work** https://freecodecamp.org/certification/eascodes/responsive-web-design
 
+### Day 15: November 9, 2021
+
+**Today's Progress**: Today I started the Basic JavaScript course on FreeCodeCamp.
+
+**Thoughts** JavaScript is completely new to me, so it's taking me a bit longer to comprehend than HTML and CSS. I look forward to the challenge though!
+
+**Link(s) to work** https://www.freecodecamp.org/eascodes
+
 **Special Guest/Note**: @schtubbs setting up multiple git users on Cooper.
 **Special Guest/Note**: @schtubbs setting up multiple git users on mactop.
