@@ -136,3 +136,11 @@ https://codepen.io/eascodes/pen/JjyOXbg
 **Thoughts** I'm looking forward to finishing the module so I can put what I'm learning into context/practice.
 
 **Link(s) to work** https://www.freecodecamp.org/eascodes
+
+## Day 17: November 11, 2021
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work** 
